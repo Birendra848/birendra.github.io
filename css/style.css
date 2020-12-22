@@ -264,6 +264,15 @@ body{
     padding: 10px;
     font-size: 40px;
 }
+.contact .col-md-4 p a{
+    color: #fff;
+}
+.contact .col-md-4 p a:hover{
+    border: none;
+    background:none;
+    color: blueviolet;
+    transition: 0.6s;
+}
 .contact .btn{
     padding: 10px 25px 10px 25px;
     margin: 5px;
